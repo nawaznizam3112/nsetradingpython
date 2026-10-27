@@ -1,0 +1,2 @@
+# nsetradingpython
+nse trading python
